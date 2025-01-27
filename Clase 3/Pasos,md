@@ -1,0 +1,17 @@
+**Si empezamos dessde 0:
+
+1- git init
+2- git add .
+3- git commit -m 'comentario X'
+4- git branch -M main
+5- git remote add origin y copiar la direccion que nos da el repositorio previamente creado en github
+6- git push -u origin main
+
+Listo con eso tenemos todo en git hub.
+
+
+**Para actualizar solamente:
+
+1- git add .
+2- git commit -m 'comentario X'
+3- git push

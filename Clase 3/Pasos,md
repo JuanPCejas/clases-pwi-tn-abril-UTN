@@ -15,3 +15,16 @@ Listo con eso tenemos todo en git hub.
 1- git add .
 2- git commit -m 'comentario X'
 3- git push
+
+
+**Si me equivoque al poner el git remote add origin usar el siguiente comando:
+
+1- git remote set-url <URL_CORRECTA>
+
+**Para ver la informacion detallada de nuestro repo podemos usar el comando:
+
+1- git status
+
+**Para ver que origen remoto tengo utilizar el siguiente codigo:
+
+1- git remote -v Fetch: donde recibo Push: donde envio

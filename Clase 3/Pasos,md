@@ -28,3 +28,10 @@ Listo con eso tenemos todo en git hub.
 **Para ver que origen remoto tengo utilizar el siguiente codigo:
 
 1- git remote -v Fetch: donde recibo Push: donde envio
+
+**Para clonar un repositorio:
+1- voy a github y selecciono el commit a clonar
+2- Le doy copiar, desde los dos cuadraditos
+3- Genero una nueva carpeta en el escritorio o donde quiera guardarlo
+4- Click dderecho y abrir con code 
+5- desde terminal ingreso git clone y pego lo copiado

@@ -1,1 +1,0 @@
-Instalar live server, cuando genero una pagina web lo hago localmente en mi disco C, esta extensión es para emular que hosteo la pagina para que este disponible para todos
